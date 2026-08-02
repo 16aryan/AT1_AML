@@ -13,4 +13,4 @@ scikit-learn
 tqdm
 typer
 lightgbm
--e /Users/aryan/AT1_AML/36120-26SP-group-student-package
+-e ../36120-26SP-group-student-package
