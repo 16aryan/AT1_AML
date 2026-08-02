@@ -1,0 +1,16 @@
+ipython
+jupyterlab
+loguru
+matplotlib
+mkdocs
+notebook
+numpy
+pandas
+pytest
+python-dotenv
+ruff
+scikit-learn
+tqdm
+typer
+lightgbm
+-e /Users/aryan/AT1_AML/36120-26SP-group-student-package
